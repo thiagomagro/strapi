@@ -91,6 +91,7 @@
     "test:unit:vitest:watch": "vitest --watch"
   },
   "resolutions": {
+    "axios": "1.6.0",
     "@types/koa": "2.13.4",
     "@babel/core": "7.26.10",
     "@babel/runtime": "7.26.10",
